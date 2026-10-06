@@ -1,0 +1,270 @@
+[
+ {
+  "video": "UVy8bgD5Pbg_000003.mp4",
+  "n_qa": 1,
+  "n_boxes": 72,
+  "qa": [
+   {
+    "q": "Where does the video take place?",
+    "a": "at sea"
+   }
+  ]
+ },
+ {
+  "video": "dN_xESMmWro_000380.mp4",
+  "n_qa": 1,
+  "n_boxes": 100,
+  "qa": [
+   {
+    "q": "What are the people doing in the video?",
+    "a": "Using a sewing machine"
+   }
+  ]
+ },
+ {
+  "video": "HcCK0MAofyk_000040.mp4",
+  "n_qa": 1,
+  "n_boxes": 100,
+  "qa": [
+   {
+    "q": "Where did the video take place?",
+    "a": "Metro Station"
+   }
+  ]
+ },
+ {
+  "video": "O_Vwjvg7UrA_000029.mp4",
+  "n_qa": 1,
+  "n_boxes": 100,
+  "qa": [
+   {
+    "q": "What's in the person's hand in the video?",
+    "a": "gun"
+   }
+  ]
+ },
+ {
+  "video": "SyCeVFvkCPU_000400.mp4",
+  "n_qa": 1,
+  "n_boxes": 208,
+  "qa": [
+   {
+    "q": "What are the people in the video doing?",
+    "a": "Driving a motorcycle"
+   }
+  ]
+ },
+ {
+  "video": "E6fiNj716-0_000004.mp4",
+  "n_qa": 1,
+  "n_boxes": 10,
+  "qa": [
+   {
+    "q": "What is shown in the video?",
+    "a": "Homemade loudspeaker"
+   }
+  ]
+ },
+ {
+  "video": "cbaTQamJ2Wg_000040.mp4",
+  "n_qa": 1,
+  "n_boxes": 115,
+  "qa": [
+   {
+    "q": "What is the main sound source of the video?",
+    "a": "train"
+   }
+  ]
+ },
+ {
+  "video": "C-eaUp2pO08_000014.mp4",
+  "n_qa": 1,
+  "n_boxes": 100,
+  "qa": [
+   {
+    "q": "What is flying in the video?",
+    "a": "aircraft"
+   }
+  ]
+ },
+ {
+  "video": "2FaEyGOJwG8_000010.mp4",
+  "n_qa": 1,
+  "n_boxes": 200,
+  "qa": [
+   {
+    "q": "What is the main source of sound in the video?",
+    "a": "lion"
+   }
+  ]
+ },
+ {
+  "video": "yQ8NGFWRsr8_000007.mp4",
+  "n_qa": 1,
+  "n_boxes": 66,
+  "qa": [
+   {
+    "q": "Where are the animals in the video?",
+    "a": "On the branch of a tree"
+   }
+  ]
+ },
+ {
+  "video": "L8vFzPRW-Jg_000020.mp4",
+  "n_qa": 1,
+  "n_boxes": 83,
+  "qa": [
+   {
+    "q": "What happened in the video?",
+    "a": "The man fell into the water"
+   }
+  ]
+ },
+ {
+  "video": "8vohm5gaLs8_000049.mp4",
+  "n_qa": 1,
+  "n_boxes": 286,
+  "qa": [
+   {
+    "q": "What is the person doing in the video?",
+    "a": "Bowling"
+   }
+  ]
+ },
+ {
+  "video": "FNRAWHBS.mp4",
+  "n_qa": 2,
+  "n_boxes": 49,
+  "qa": [
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[0.0-1.0] The common chiffchaff bird is sensing its environment."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[1.0-4.9] The common chiffchaff bird is chirping."
+   }
+  ]
+ },
+ {
+  "video": "MBKMALHH.mp4",
+  "n_qa": 2,
+  "n_boxes": 40,
+  "qa": [
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[3.2-5.2] The frog tadpole is swimming."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[5.3-8.3] The water scorpion is swimming."
+   }
+  ]
+ },
+ {
+  "video": "KSNSEBQT.mp4",
+  "n_qa": 3,
+  "n_boxes": 57,
+  "qa": [
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[3.2-4.7] The raffles banded langur is attending."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[4.8-5.4] The raffles banded langur is climbing."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[4.8-8.6] The raffles banded langur is jumping."
+   }
+  ]
+ },
+ {
+  "video": "XVPOPDSN.mp4",
+  "n_qa": 3,
+  "n_boxes": 688,
+  "qa": [
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[0.0-1.6] The hawk is attending."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[4.3-10.6] The marine iguana is keeping still."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[4.3-6.8] The marine iguana is sensing its environment."
+   }
+  ]
+ },
+ {
+  "video": "RHNNYVMW.mp4",
+  "n_qa": 2,
+  "n_boxes": 71,
+  "qa": [
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[11.2-15.7] The russell's viper is sensing its environment."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[4.8-11.0] The russell's viper is keeping still."
+   }
+  ]
+ },
+ {
+  "video": "DCLWPIFB.mp4",
+  "n_qa": 4,
+  "n_boxes": 156,
+  "qa": [
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[1.9-14.6] The glass frog is keeping still."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[4.0-6.0] The glass frog is attending."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[9.3-11.8] The glass frog piggybacks and lies on top of another glass frog."
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[9.3-9.8] The glass frog is jumping."
+   }
+  ]
+ },
+ {
+  "video": "video_validation_0000269.mp4",
+  "n_qa": 3,
+  "n_boxes": 15,
+  "qa": [
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[2.3-12.3] FrisbeeCatch"
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[14.9-16.1] FrisbeeCatch"
+   },
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[18.0-19.1] FrisbeeCatch"
+   }
+  ]
+ },
+ {
+  "video": "video_validation_0000151.mp4",
+  "n_qa": 1,
+  "n_boxes": 127,
+  "qa": [
+   {
+    "q": "What is happening in this video segment?",
+    "a": "[10.2-22.9] CleanAndJerk"
+   }
+  ]
+ }
+]
