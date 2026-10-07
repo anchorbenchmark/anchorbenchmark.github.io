@@ -109,6 +109,7 @@ tbody tr{transition:background .16s}tbody tr:hover{background:#fff}
 
 /* Carnegie Mellon accent system. Taxonomy colors remain categorical. */
 :root{--lime:#c41230;--teal:#c41230;--orange:#c41230}
+.hero h1{color:#c41230}
 .conference{border-color:#c4123052;background:#fae9ed}
 .primary:hover{background:#9f0f27}
 .track-line{background:linear-gradient(to right,#c4123018 15%,#c41230 15%,#c41230 55%,#c4123018 55%)}
