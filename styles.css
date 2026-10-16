@@ -195,3 +195,10 @@ tbody tr{transition:background .16s}tbody tr:hover{background:#fff}
 .sync-readout{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:5px 11px;color:var(--muted);font-size:8px;font-weight:650;letter-spacing:.08em;text-align:right}
 .sync-readout span:first-child{color:var(--ink);font-variant-numeric:tabular-nums;letter-spacing:.03em}
 @media(max-width:420px){.inspector-player-bar{align-items:flex-start;flex-direction:column}.sync-readout{justify-content:flex-start;text-align:left}}
+
+.gh-icon{width:16px;height:16px;flex-shrink:0}.nav-code{display:inline-flex;align-items:center;gap:8px}.nav-code:hover{color:var(--lime)}.code-link{display:inline-flex;align-items:center;gap:8px}.code-link:hover{color:var(--lime)}.button.secondary{gap:10px}.button .gh-icon{margin-right:0}
+@media(max-width:760px){.nav-code span{display:none}.resources .actions{flex-wrap:wrap}}
+
+.hero .actions{flex-wrap:wrap;gap:14px 26px}.hero .button{white-space:nowrap}.text-link{display:inline-flex;align-items:center;gap:8px;white-space:nowrap}.text-link .file-type{margin-left:0;line-height:1;white-space:nowrap}.resources .file-type,.button .file-type{white-space:nowrap}
+.hero .actions{flex-wrap:nowrap;gap:22px}.hero .actions .button{flex-shrink:0}.text-link .file-type{padding:3px 5px}.code-link span[aria-hidden]{opacity:.6;font-size:13px}
+@media(max-width:1100px){.hero .actions{flex-wrap:wrap}}

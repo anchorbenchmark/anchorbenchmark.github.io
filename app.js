@@ -1,7 +1,7 @@
 'use strict';
 const reducedMotion=window.matchMedia('(prefers-reduced-motion: reduce)');
 document.body.classList.add('motion-ready');
-// Published percentages: ANCHOR Supplementary Material, Table 3.
+// Published percentages.
 // Arc allocation is deliberately schematic so rare categories remain explorable.
 const taxonomy = [
  {name:'Information Query',short:'Information query',share:69.26,color:'#d0f79a',arc:142,description:'Identify what is happening, who or what is present, where an event occurs, or which sound is heard. These questions connect factual answers to specific perceptual evidence.',domains:[['Movies, TV & Animation',28.26],['Pets & Animals',19.04],['Science & Knowledge',10.64],['Life & Practical Skills',7.00],['Humanities & Society',2.48],['Sports & Adventure',.87],['Social Trends & Reactions',.41],['Technology & Gaming',.33],['Business & Commerce',.25]]},
